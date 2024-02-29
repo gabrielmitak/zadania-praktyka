@@ -1,0 +1,14 @@
+C:\praktyki\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.exe
+C:\praktyki\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.deps.json
+C:\praktyki\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.runtimeconfig.json
+C:\praktyki\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.dll
+C:\praktyki\zadanie1\zadanie1\bin\Debug\net8.0\zadanie1.pdb
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.AssemblyInfoInputs.cache
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.AssemblyInfo.cs
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.csproj.CoreCompileInputs.cache
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.dll
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\refint\zadanie1.dll
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.pdb
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\zadanie1.genruntimeconfig.cache
+C:\praktyki\zadanie1\zadanie1\obj\Debug\net8.0\ref\zadanie1.dll
